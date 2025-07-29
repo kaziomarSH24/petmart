@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/sparktechagency/PetSwap-Backend.git
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/sparktechagency/PetSwap-Dashboard-new.git
+[submodule "landing-page"]
+	path = landing-page
+	url = https://github.com/sparktechagency/PetSwap-Landing-Page.git
